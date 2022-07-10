@@ -18,3 +18,5 @@ int result = num1 / num2;
 if(result == num2)
 Console.WriteLine("Yes");
 else Console.WriteLine("No");
+
+
