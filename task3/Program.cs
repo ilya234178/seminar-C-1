@@ -20,4 +20,6 @@ if (day_week == 1){
     Console.WriteLine("Суббота");
 }else if (day_week == 7){
     Console.WriteLine("Воскресенье");
+}else {
+    Console.WriteLine("Ошибка");
 }
