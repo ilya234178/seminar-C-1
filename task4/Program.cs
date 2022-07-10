@@ -22,6 +22,6 @@ i = -n;
 
 while (i <= n)
 {
-Console.WriteLine(i);
+Console.Write($"{i} ");
 i++;
 }
